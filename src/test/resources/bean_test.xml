@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+  <bean name="User" class="io.talkwithkeyboard.code.bean.User">
+    <property name="name" value="songwei"/>
+    <property name="age" value="25"/>
+  </bean>
+</beans>
